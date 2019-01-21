@@ -1,0 +1,2 @@
+#!/bin/bash
+ghci -e ':bro Prelude' | sed 's/ ::.*//; /^ /d; /[^a-z]/d' | column

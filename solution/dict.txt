@@ -1,0 +1,11 @@
+all		even		lcm		read		subtract
+and		filter		lex		reads		tail
+any		flip		lines		repeat		take
+break		fst		lookup		replicate	uncurry
+concat		gcd		map		reverse		undefined
+const		head		maybe		scanl		unlines
+curry		id		not		scanr		until
+cycle		init		odd		seq		unwords
+drop		interact	or		shows		unzip
+either		iterate		otherwise	snd		words
+error		last		print		span		zip

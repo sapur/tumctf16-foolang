@@ -1,0 +1,10 @@
+{
+    "name": "foolang",
+    "categories": ["ppc", "misc"],
+    "points": 250,
+    "bonus": 100,
+    "flag": "hxp{i-kn0w/my.PLANs}",
+    "ports": [],
+    "downloadable": ["cryptor.foo", "enc.bin"],
+    "author": "sap"
+}
